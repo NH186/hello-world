@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository
+This is pretty crazy, learning the very beginnings of coding. I really hope this goes somewhere...
